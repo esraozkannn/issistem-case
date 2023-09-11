@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "+sNlbCfoc1MpSIUHZCQ55iHeZ2Jnleq78Ihmlq2LDThVAftc5SUzac3h+nX0Ro/BD2i/riE/uc5vZBjeVPMIZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ezran\\source\\repos\\VakaCalismasi\\VakaCalismasi\\VakaCalismasi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ezran\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\ezran\\.nuget\\packages\\microsoft.codecoverage\\17.7.2\\microsoft.codecoverage.17.7.2.nupkg.sha512",
+    "C:\\Users\\ezran\\.nuget\\packages\\microsoft.net.test.sdk\\17.7.2\\microsoft.net.test.sdk.17.7.2.nupkg.sha512",
+    "C:\\Users\\ezran\\.nuget\\packages\\moq\\4.20.69\\moq.4.20.69.nupkg.sha512",
+    "C:\\Users\\ezran\\.nuget\\packages\\mstest\\3.1.1\\mstest.3.1.1.nupkg.sha512",
+    "C:\\Users\\ezran\\.nuget\\packages\\mstest.testadapter\\3.1.1\\mstest.testadapter.3.1.1.nupkg.sha512",
+    "C:\\Users\\ezran\\.nuget\\packages\\mstest.testframework\\3.1.1\\mstest.testframework.3.1.1.nupkg.sha512",
+    "C:\\Users\\ezran\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\ezran\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package version outside of dependency constraint: MSTest 3.1.1 requires Microsoft.NET.Test.Sdk (= 17.6.0) but version Microsoft.NET.Test.Sdk 17.7.2 was resolved.",
+      "libraryId": "Microsoft.NET.Test.Sdk",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2",
+        ".NETFramework,Version=v4.7.2/win",
+        ".NETFramework,Version=v4.7.2/win-x64",
+        ".NETFramework,Version=v4.7.2/win-x86"
+      ]
+    }
+  ]
+}

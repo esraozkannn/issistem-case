@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ezran\\source\\repos\\VakaCalismasi\\VakaCalismasi\\VakaCalismasi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ezran\\source\\repos\\VakaCalismasi\\VakaCalismasi\\VakaCalismasi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ezran\\source\\repos\\VakaCalismasi\\VakaCalismasi\\VakaCalismasi.csproj",
+        "projectName": "VakaCalismasi",
+        "projectPath": "C:\\Users\\ezran\\source\\repos\\VakaCalismasi\\VakaCalismasi\\VakaCalismasi.csproj",
+        "packagesPath": "C:\\Users\\ezran\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ezran\\source\\repos\\VakaCalismasi\\VakaCalismasi\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\ezran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "MSTest": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.7.2, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.69, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
